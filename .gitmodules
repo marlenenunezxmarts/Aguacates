@@ -17,3 +17,8 @@
 	path = xmarts/account-multi-pay
 	url = git@github.com:xmarts/account-multi-pay.git
 	branch = 15.0
+
+[submodule "xmarts/xma_reception_boxes"]
+	path = xmarts/xma_reception_boxes
+	url = git@github.com:xmarts/xma_reception_boxes.git
+	branch = 15.0
